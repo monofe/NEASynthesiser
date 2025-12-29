@@ -1,6 +1,6 @@
 # About
 
-A simple subtractive synthesiser that compiles to a VST3 file. 
+A simple subtractive synthesiser. 
 
 ![Image of UI](./example_image.png)
 
@@ -38,6 +38,10 @@ These are your standard ADSR parameters. Not much more to say here.
 The LFO can target either one of the oscillator pitch or the filter cutoff frequency.
 
 Oscillator pitch LFOs are frequently used to create a "vibrato" effect, whereas filter cutoff frequency LFOs are often used to create a sort of "pulsing" or "pumping" effect in the sound.
+
+# Download
+
+The `.vst3` file for the plugin can be found in the Releases tab on this repository.
 
 # Build
 
