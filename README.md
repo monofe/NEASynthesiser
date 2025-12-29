@@ -6,6 +6,8 @@ A simple subtractive synthesiser.
 
 This project was created using [JUCE](https://juce.com/).
 
+This project was finished in early 2024.
+
 # Usage
 
 ## Oscillators
